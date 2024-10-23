@@ -11,3 +11,5 @@
         - And how they combine to make sounds
     - Produce spoken language
     - Produce written language
+- Learning requires being introduced to new concepts and then practicing.
+- I don't know to what extent instruction is required. 
